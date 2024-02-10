@@ -1,5 +1,5 @@
 # Mini Loan App - React 
-A loan application fornt-end designed in React JS. </br>
+A loan application front-end designed in React JS. </br>
 
 # Libraries used 
 Axios - AJAX calls. </br>
