@@ -1,4 +1,4 @@
-const serverIP = "192.168.150.101";
+const serverIP = "SERVER_IP";
 
 export const loginUrl = `http://${serverIP}:8080/login`;
 export const signupUrl = `http://${serverIP}:8080/signup`;
